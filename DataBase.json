@@ -1,0 +1,58 @@
+{
+  "products":[{
+      "id":1,
+      "name":"Samsun Galaxy A21",
+      "description":"Ram : 8 GB , Memory : 128 GB , 265 GB",
+      "imgSrc":"../../assets/imgs/1.jpg",
+      "cost":10000
+  },
+  {
+      "id":2,
+      "name":"Iphone 8 Plus",
+      "description":"Ram : 8 GB , Memory : 128 GB , 265 GB",
+      "imgSrc":"../../assets/imgs/2.jpg",
+      "cost":10000
+  },
+  {
+      "id":3,
+      "name":"Samsun Galaxy A32",
+      "description":"Ram : 8 GB , Memory : 128 GB , 265 GB",
+      "imgSrc":"../../assets/imgs/3.jpg",
+      "cost":10000
+  },
+  {
+      "id":4,
+      "name":"OPPO Reno 4",
+      "description":"Ram : 8 GB , Memory : 128 GB , 265 GB",
+      "imgSrc":"../../assets/imgs/4.jpg",
+      "cost":10000
+  },
+  {
+      "id":5,
+      "name":"RealMe 7 Pro",
+      "description":"Ram : 8 GB , Memory : 128 GB , 265 GB",
+      "imgSrc":"../../assets/imgs/2.jpg",
+      "cost":10000
+  },
+  {
+      "id":6,
+      "name":"Samsun Galaxy A21",
+      "description":"Ram : 8 GB , Memory : 128 GB , 265 GB",
+      "imgSrc":"../../assets/imgs/3.jpg",
+      "cost":10000
+  },
+  {
+      "id":7,
+      "name":"Samsun Galaxy A21",
+      "description":"Ram : 8 GB , Memory : 128 GB , 265 GB",
+      "imgSrc":"../../assets/imgs/1.jpg",
+      "cost":10000
+  },
+  {
+      "id":8,
+      "name":"Samsun Galaxy A21",
+      "description":"Ram : 8 GB , Memory : 128 GB , 265 GB",
+      "imgSrc":"../../assets/imgs/4.jpg",
+      "cost":10000
+  }]
+}
